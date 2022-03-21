@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#2F3001",
+			"titleBar.activeBackground": "#414302",
+			"titleBar.activeForeground": "#FCFEBC"
+		},
+
+
+		"liveSassCompile.settings.formats":[
+			// This is Default.
+			{
+				"format": "compressed",
+				"extensionName": ".css",
+				"savePath": null
+			}
+		
+		]
+	}
+
+	
+
+}
